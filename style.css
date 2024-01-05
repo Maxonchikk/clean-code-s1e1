@@ -120,22 +120,22 @@ label[for="new-task"] {
   align-items: center;
 }
 
-.task-item>* {
+.task-item > * {
   vertical-align: middle;
 }
 
-.task-item>input[type="checkbox"] {
+.task-item > input[type="checkbox"] {
   margin: 0 10px;
 }
 
-.task-item>label {
+.task-item > label {
   padding-left: 10px;
   box-sizing: border-box;
   font-size: 18px;
   width: 226px;
 }
 
-.task-item>input[type="text"] {
+.task-item > input[type="text"] {
   width: 226px;
 }
 
