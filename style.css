@@ -20,7 +20,7 @@ body {
   font-family: fantasy, cursive;
 }
 
-@media (max-width:768px) {
+@media (max-width: 768px) {
   .preview {
     text-align: center;
   }
@@ -152,7 +152,8 @@ label[for="new-task"] {
 
 /* Completed */
 #completed-tasks label {
-  text-decoration: line-through color: #888;
+  text-decoration: line-through
+  color: #888;
 }
 
 /* Edit Task */
